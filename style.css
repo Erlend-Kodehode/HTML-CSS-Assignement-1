@@ -14,9 +14,6 @@ nav a {
 #coast-img {
   width: 700px;
 }
-p {
-  background-color: antiquewhite;
-}
 h1 {
   font-family: "Syncopate", sans-serif;
   color: cornflowerblue;
@@ -26,6 +23,9 @@ h2,
 h3 {
   color: darkorange;
   background-color: azure;
+}
+p {
+  background-color: antiquewhite;
 }
 ul {
   color: indigo;
