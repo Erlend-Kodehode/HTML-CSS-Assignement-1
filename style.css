@@ -19,15 +19,21 @@ h1 {
   color: cornflowerblue;
   background-color: aliceblue;
 }
+h2,
+h3 {
+  color: darkorange;
+  background-color: azure;
+}
 #mountain-ul {
   color: indigo;
   background-color: cornsilk;
 }
 .mountain-headers {
   color: maroon;
-  background-color: azure;
 }
 .lake-headers {
   color: darkgreen;
-  background-color: azure;
+}
+.coast-headers {
+  color: blue;
 }
