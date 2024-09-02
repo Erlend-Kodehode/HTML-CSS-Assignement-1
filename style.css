@@ -1,0 +1,33 @@
+nav {
+  background-color: darkgrey;
+  color: brown;
+}
+nav a {
+  color: aliceblue;
+}
+#mountain-img {
+  width: 600px;
+}
+#lake-img {
+  width: 700px;
+}
+p {
+  background-color: antiquewhite;
+}
+h1 {
+  font-family: "Syncopate", sans-serif;
+  color: cornflowerblue;
+  background-color: aliceblue;
+}
+#mountain-ul {
+  color: indigo;
+  background-color: cornsilk;
+}
+.mountain-headers {
+  color: maroon;
+  background-color: azure;
+}
+.lake-headers {
+  color: darkgreen;
+  background-color: azure;
+}
