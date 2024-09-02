@@ -1,4 +1,4 @@
-nav {
+nav ul {
   background-color: darkgrey;
   color: brown;
 }
@@ -9,6 +9,9 @@ nav a {
   width: 600px;
 }
 #lake-img {
+  width: 700px;
+}
+#coast-img {
   width: 700px;
 }
 p {
@@ -24,7 +27,7 @@ h3 {
   color: darkorange;
   background-color: azure;
 }
-#mountain-ul {
+ul {
   color: indigo;
   background-color: cornsilk;
 }
